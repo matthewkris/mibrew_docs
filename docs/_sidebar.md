@@ -1,4 +1,4 @@
 - Getting started
 
   - [Home](/)
-  - [Guide](guide.md)
+  - [Guide](getting_started.md)
