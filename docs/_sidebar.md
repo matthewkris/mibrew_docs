@@ -1,2 +1,4 @@
-* [Home](/)
-* [Guide](guide.md)
+- Getting started
+
+  - [Home](/)
+  - [Guide](guide.md)
